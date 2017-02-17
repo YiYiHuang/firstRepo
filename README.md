@@ -1,4 +1,3 @@
 ﻿# firstRepo
 test
-test2
-衝突3
+test2這是遠端的衝突
